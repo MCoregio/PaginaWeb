@@ -1,0 +1,35 @@
+body {
+    background-color: pink;
+    color: black;
+    font-family: "Merienda", system-ui;
+}
+
+header {
+    border-bottom: solid 2px #ffffff6b;
+    font-size: 35px;
+    padding: 18px;
+}
+section{
+    display: flex;
+    background: #ffffff6b;
+    padding-bottom: 80px;
+    padding-top: 8px;
+    justify-content: center;  
+}
+.tittle-video {
+      margin-right: 5%;
+}
+img{
+    height: 125px;
+}
+
+.fila-videos{
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.fila-videos img {
+    height: 200px;
+    overflow-x: auto;
+    gap:20px
+]}
